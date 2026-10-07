@@ -42,7 +42,7 @@ From an engineering perspective, the electromagnetic environment is not treated 
 For the RE-T1 architecture, the electromagnetic environment is considered the starting point of the conceptual information flow.
 
 ### High-Level Flow
-
+```text
 
 Electromagnetic Environment
             ↓
@@ -53,6 +53,7 @@ Electromagnetic Environment
       Digital Signal Data
             ↓
        DSP Processing
+```
 
 ## 4. Basic Concept of RF
 
