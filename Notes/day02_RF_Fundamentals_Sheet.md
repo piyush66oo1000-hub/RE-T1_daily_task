@@ -469,15 +469,3 @@ Examples:
 | 10 | 10 dB |
 | 100 | 20 dB |
 | 1000 | 30 dB |
-
----
-
-# 16. Key Learning
-
-The task established the basic RF and link-metric concepts required for the RF/DSP work. The study covered frequency, time period, bandwidth, center frequency, sampling, Nyquist sampling condition, noise, and SNR.
-
-The numerical exercises provided practice in frequency/time conversion, bandwidth calculation, sampling-rate verification, and SNR calculation.
-
-**Personal Expenditure: ₹0**
-
-**Output File:** `rf_fundamentals_sheet.md`
