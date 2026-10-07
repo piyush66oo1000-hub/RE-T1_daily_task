@@ -1,14 +1,5 @@
 # RF Architecture Notes
 
-**Project:** RE-T1 — RudraEdge Advanced Autonomous Multi-Sensor Tactical UAV Platform  
-**Engineer:** Piyush Sharma  
-**Role:** RF & DSP Engineer  
-**Task:** Electromagnetic Layer Study  
-**Date:** 05 October 2026  
-**Required Output:** RF Architecture Notes
-
----
-
 ## 1. Introduction
 
 The RE-T1 project includes an electromagnetic-awareness component that forms an important part of the overall technical architecture.
@@ -319,3 +310,4 @@ This provides a basic architectural model for the RF/DSP subsystem.
 
 A well-defined data flow also provides a foundation for future implementation and testing activities.
 
+---
